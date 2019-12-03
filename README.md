@@ -1,5 +1,5 @@
 # LLM-SSM-emergence
-A repo for code, papers and demo for the emergence index based on a state-space model
+A repo for code, in R, papers and demo for the emergence index based on a state-space model
 
 LLM-SSM_paper.pdf contains the theoretical elements of the model used for the emergence index calculations.
 
