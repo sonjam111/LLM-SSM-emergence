@@ -3,8 +3,6 @@ A repo for code, in R, papers and demo for the emergence index based on a state-
 
 LLM-SSM_paper.pdf contains the theoretical elements of the model used for the emergence index calculations.
 
-Emergence-index_LLM-SSM.pdf contains the derivation of the index and several examples and applications.
-
 likelihoodLLMvard.R has the code to compute the likelihood.
 
 parameter_estimator3.R has the code to obtain the hyperparameters via maximum likelihood.
